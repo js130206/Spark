@@ -1,0 +1,16 @@
+Premise ID,Premise Name,Sector,Sub-Basin,Billing Month,Consumption (m3),Cost (RM)
+3,Bukit Jelutong Semi-D 04,Domestic,Sungai Damansara,2026-06,32.0,28.84
+3,Bukit Jelutong Semi-D 04,Domestic,Sungai Damansara,2026-07,34.0,31.48
+3,Bukit Jelutong Semi-D 04,Domestic,Sungai Damansara,2026-08,44.5,57.78
+2,Rawang Perdana Terrace 88,Domestic,Sungai Selangor,2026-06,18.5,12.03
+2,Rawang Perdana Terrace 88,Domestic,Sungai Selangor,2026-07,19.0,12.35
+2,Rawang Perdana Terrace 88,Domestic,Sungai Selangor,2026-08,17.8,11.57
+1,Taman Sri Muda Residence 12,Domestic,Sungai Selangor,2026-06,38.0,40.69
+1,Taman Sri Muda Residence 12,Domestic,Sungai Selangor,2026-07,41.5,49.89
+1,Taman Sri Muda Residence 12,Domestic,Sungai Selangor,2026-08,52.0,77.51
+5,Batang Kali Food Processing Hub,Industrial,Sungai Selangor,2026-06,820.0,2419.00
+5,Batang Kali Food Processing Hub,Industrial,Sungai Selangor,2026-07,805.0,2374.75
+5,Batang Kali Food Processing Hub,Industrial,Sungai Selangor,2026-08,790.0,2330.50
+4,Kundang Jaya Glove Manufacturing,Industrial,Sungai Selangor,2026-06,1450.0,4277.50
+4,Kundang Jaya Glove Manufacturing,Industrial,Sungai Selangor,2026-07,1520.0,4484.00
+4,Kundang Jaya Glove Manufacturing,Industrial,Sungai Selangor,2026-08,1890.0,5575.50

@@ -1,0 +1,25 @@
+====================================================================
+  W.A.T.E.R. PROJECT & SPARK YOUTH GRANT - STAKEHOLDER REPORT
+  Generated: 2026-10-24 23:14:44
+====================================================================
+
+1. SECTOR CONSUMPTION SUMMARY
+-----------------------------
+- Domestic: 9 logs | Avg: 33.03 m3 | Total: 297.3 m3 | Total Bill: RM 322.14
+- Industrial: 6 logs | Avg: 1212.5 m3 | Total: 7275.0 m3 | Total Bill: RM 21461.25
+
+2. FLAGGED INEFFICIENCIES & ANOMALIES
+-------------------------------------
+- [2026-06] Taman Sri Muda Residence 12 (High Per-Capita Usage): 253.3 LCD (Exceeds 230 LCD limit)
+- [2026-07] Taman Sri Muda Residence 12 (High Per-Capita Usage): 276.7 LCD (Exceeds 230 LCD limit)
+- [2026-08] Taman Sri Muda Residence 12 (High Per-Capita Usage): 346.7 LCD (Exceeds 230 LCD limit)
+- [2026-08] Taman Sri Muda Residence 12 (MoM Consumption Spike): +25.3% surge (41.5 -> 52.0 m3)
+- [2026-08] Bukit Jelutong Semi-D 04 (High Per-Capita Usage): 247.2 LCD (Exceeds 230 LCD limit)
+- [2026-08] Bukit Jelutong Semi-D 04 (MoM Consumption Spike): +30.9% surge (34.0 -> 44.5 m3)
+- [2026-08] Kundang Jaya Glove Manufacturing (MoM Consumption Spike): +24.3% surge (1520.0 -> 1890.0 m3)
+
+3. RAINWATER HARVESTING SIMULATIONS
+-----------------------------------
+- Taman Sri Muda Residence 12 (Domestic): Harvested 28.56 m3 @ 240.0mm rainfall -> Saves RM 46.10/month
+- Kundang Jaya Glove Manufacturing (Industrial): Harvested 150.0 m3 @ 240.0mm rainfall -> Saves RM 442.50/month
+- Taman Sri Muda Residence 12 (Domestic): Harvested 5.0 m3 @ 240.0mm rainfall -> Saves RM 13.15/month
